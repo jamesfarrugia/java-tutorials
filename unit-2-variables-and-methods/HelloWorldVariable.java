@@ -1,7 +1,7 @@
 /**
  * Hello world program.  Prints hello world to the screen and exits
  */
-public class HelloWorld
+public class HelloWorldVariable
 {
 	/**
 	 * Main method that prints the message
