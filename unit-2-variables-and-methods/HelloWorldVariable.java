@@ -10,7 +10,8 @@ public class HelloWorldVariable
 	 */
 	public static void main(String[] args)
 	{
-	  String myText = "Hello World!";
+		// Declaring the text to output as a variable of type String
+	  	String myText = "Hello World!";
 		// Prints out "Hello World!"
 		System.out.println(myText);
 	}
