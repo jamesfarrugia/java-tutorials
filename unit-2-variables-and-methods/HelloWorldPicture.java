@@ -18,7 +18,7 @@ public class HelloWorldPicture
 		
 		int area = myPicture.width * myPicture.height;
 		myPicture.pixels = new Pixel[area];
-	  // Print out the area (width times height)
+	  	// Print out the area (width times height)
 		System.out.println("Area = " + area);
 	}
 }
